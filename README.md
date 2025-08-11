@@ -21,7 +21,7 @@ This project demonstrates basic list operations in Python, including creating a 
 3. No additional dependencies are required.
 
 ## Usage
-1. Save the following code in a file named `list_operations.py`:
+1. Save the following code in a file named `empty_list.py`:
 
 ```python
 # Create an empty list
@@ -53,10 +53,10 @@ print(my_list)
 ```
 
 2. Open a terminal or command prompt.
-3. Navigate to the directory containing `list_operations.py`.
+3. Navigate to the directory containing `empty_list.py`.
 4. Run the script using:
    ```bash
-   python list_operations.py
+   python empty_list.py
    ```
 
 ## Output
